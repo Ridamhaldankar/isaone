@@ -2,4 +2,3 @@ the cat is small
 the dog is big
 the lion is strong
 the bird is nice
-the car is red
